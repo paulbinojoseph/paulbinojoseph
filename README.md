@@ -42,4 +42,4 @@ I'm a web developer passionate about creating open-source projects and collabora
 - [LinkedIn](https://linkedin.com/in/paulbinojoseph)
 - [Twitter](https://twitter.com/paulbinojoseph)
   
-  <a href="https://app.daily.dev/paulbinojoseph"><img src="https://api.daily.dev/devcards/v2/YG5OEmUbudaAVpJr37DGE.png?type=default&r=dqt" width="356" alt="Paul Bino Joseph's Dev Card"/></a>
+  <a href="https://app.daily.dev/paulbinojoseph"><img src="https://api.daily.dev/devcards/v2/YG5OEmUbudaAVpJr37DGE.png?type=wide&r=b9q" width="652" alt="Paul Bino Joseph's Dev Card"/></a>

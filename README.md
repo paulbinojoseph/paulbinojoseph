@@ -102,6 +102,6 @@
 </div>
 
 
-  <a href="https://app.daily.dev/paulbinojoseph"><img src="https://api.daily.dev/devcards/v2/YG5OEmUbudaAVpJr37DGE.png?type=wide&r=b9q" width="652" alt="Paul Bino Joseph's Dev Card"/></a>
+  <a href="https://app.daily.dev/paulbinojoseph"><img src="https://api.daily.dev/devcards/v2/YG5OEmUbudaAVpJr37DGE.png?type=wide&r=b9q" width="98%" alt="Paul Bino Joseph's Dev Card"/></a>
 
 <p align="center"><a href="https://www.buymeacoffee.com/paulbinojoseph" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>

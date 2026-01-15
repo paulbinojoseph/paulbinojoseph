@@ -34,9 +34,9 @@
 ![Location](https://img.shields.io/badge/Location-India-green)
 ![Timezone](https://img.shields.io/badge/Timezone-UTC%2B5:30-informational)
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> -->
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> 
+<!--
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />-->
 
 ## 📌 About Me
 - 💻 Software Developer focused on clean and maintainable code

@@ -59,8 +59,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulbinojoseph&theme=radical&utcOffset=5.5" width="49%" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulbinojoseph&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulbinojoseph&theme=radical" width="49%" />
+   
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-beta-32.vercel.app?user=paulbinojoseph&theme=radical" width="49%" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">

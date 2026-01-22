@@ -59,15 +59,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paulbinojoseph&theme=radical&utcOffset=5.5" width="49%" />
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulbinojoseph&theme=radical" width="49%" />
    
 </p>
+-->
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-beta-32.vercel.app?user=paulbinojoseph&theme=radical" width="49%" alt="GitHub Streak" /></a>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulbinojoseph&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="paulbinojoseph's GitHub Stats" width="49%" /> -->
+ 
 </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-beta-32.vercel.app?user=paulbinojoseph&theme=radical" width="49%" alt="GitHub Streak" /></a></p>
 
 <p align="center">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=paulbinojoseph&theme=radical&radius=10" alt="paulbinojoseph's Activity Graph" width="98%" />
@@ -92,6 +96,10 @@
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulbinojoseph&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" width="49%" alt="Top Languages" />
+</p>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/paulbinojoseph" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/paulbinojoseph" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:paulbinojoseph10@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>

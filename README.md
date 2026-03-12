@@ -22,7 +22,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue)
 
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-informational)
+<!-- ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-informational) -->
+
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack-orange)
 ![Availability](https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen)
 
